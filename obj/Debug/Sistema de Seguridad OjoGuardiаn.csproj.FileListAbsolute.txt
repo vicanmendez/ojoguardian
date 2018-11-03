@@ -1,0 +1,29 @@
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\Sistema de Seguridad OjoGuardián.exe.config
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\Sistema de Seguridad OjoGuardián.exe
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\Sistema de Seguridad OjoGuardián.pdb
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Controls.dll
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.dll
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.dll
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Math.dll
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Controls.xml
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.xml
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.xml
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Imaging.xml
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Math.xml
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema de Seguridad OjoGuardián.csprojResolveAssemblyReference.cache
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema_de_Seguridad_OjoGuardián.Properties.Resources.resources
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema de Seguridad OjoGuardián.csproj.GenerateResource.Cache
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema de Seguridad OjoGuardián.exe
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema de Seguridad OjoGuardián.pdb
+c:\users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema_de_Seguridad_OjoGuardián.VentanaPrincipal.resources
+C:\Users\vicmn\OneDrive\Documents\Visual Studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema_de_Seguridad_OjoGuardián.AjustesSensorMovimiento.resources
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema_de_Seguridad_OjoGuardián.menuAjustesGrabacion.resources
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.VFW.dll
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Vision.dll
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Video.VFW.xml
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\bin\Debug\AForge.Vision.xml
+C:\Users\vicmn\onedrive\documents\visual studio 2017\Projects\Sistema de Seguridad OjoGuardián\Sistema de Seguridad OjoGuardián\obj\Debug\Sistema_de_Seguridad_OjoGuardián.Vigilancia.resources
