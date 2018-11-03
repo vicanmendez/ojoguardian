@@ -1,0 +1,28 @@
+AjustesSensorMovimiento.cs
+AjustesSensorMovimiento.Designer.cs
+AjustesSensorMovimiento.resx
+App.config
+archivos.txt
+bin
+Download errors.txt
+Form1.cs
+Form1.Designer.cs
+Form1.resx
+globalKeyboardHook.cs
+KeyboardHook.cs
+menuAjustesGrabacion.cs
+menuAjustesGrabacion.Designer.cs
+menuAjustesGrabacion.resx
+obj
+Program.cs
+Properties
+repo
+Settings.cs
+Sistema de Seguridad OjoGuardiаn.csproj
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs.txt
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs.txt
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs.txt
+Utilidades.cs
+Vigilancia.cs
+Vigilancia.Designer.cs
+Vigilancia.resx
